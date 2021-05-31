@@ -14,8 +14,6 @@ public class git {
 
         System.out.println("master test!");
 
-        System.out.println("hot-fix test!");
-
     }
 
 }
